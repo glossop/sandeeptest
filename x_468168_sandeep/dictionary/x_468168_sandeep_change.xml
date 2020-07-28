@@ -2,5 +2,12 @@
     <element label="Change" max_length="40" name="x_468168_sandeep_change" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Change Notes" max_length="60" name="change_notes" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Device" max_length="40" name="u_device" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Apple" sequence="0" value="apple"/>
+                <element inactive_on_update="false" label="Lenovo" sequence="1" value="lenovo"/>
+                <element inactive_on_update="false" label="Acer" sequence="2" value="acer"/>
+            </choice>
+        </element>
     </element>
 </database>
