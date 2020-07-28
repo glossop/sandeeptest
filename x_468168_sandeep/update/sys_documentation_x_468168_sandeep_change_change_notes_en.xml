@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="change_notes" label="Change Notes" language="en" table="x_468168_sandeep_change">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>change_notes</element>
+            <help/>
+            <hint/>
+            <label>Change Notes</label>
+            <language>en</language>
+            <name>x_468168_sandeep_change</name>
+            <plural>Change Notes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-28 02:04:16</sys_created_on>
+            <sys_id>1a821859db1210100ec5273748961983</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Change Notes</sys_name>
+            <sys_package display_value="Sandeep" source="x_468168_sandeep">caf15c19db1210100ec52737489619b4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Sandeep">caf15c19db1210100ec52737489619b4</sys_scope>
+            <sys_update_name>sys_documentation_x_468168_sandeep_change_change_notes_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-28 02:04:16</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

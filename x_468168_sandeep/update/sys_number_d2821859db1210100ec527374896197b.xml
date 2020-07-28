@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_468168_sandeep_change">x_468168_sandeep_change</category>
+        <maximum_digits>6</maximum_digits>
+        <number>1000</number>
+        <prefix>CHA</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-28 02:04:16</sys_created_on>
+        <sys_id>d2821859db1210100ec527374896197b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CHA</sys_name>
+        <sys_package display_value="Sandeep" source="x_468168_sandeep">caf15c19db1210100ec52737489619b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sandeep">caf15c19db1210100ec52737489619b4</sys_scope>
+        <sys_update_name>sys_number_d2821859db1210100ec527374896197b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-28 02:04:16</sys_updated_on>
+    </sys_number>
+</record_update>
