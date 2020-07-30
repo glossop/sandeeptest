@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-30 06:43:10</sys_created_on>
+        <sys_id>d38527f1db1610100ec5273748961960</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_468168_sandeep_internal_change_log.x_468168_sandeep.internal_change_log_user</sys_name>
+        <sys_package display_value="Sandeep" source="x_468168_sandeep">caf15c19db1210100ec52737489619b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sandeep">caf15c19db1210100ec52737489619b4</sys_scope>
+        <sys_security_acl display_value="x_468168_sandeep_internal_change_log">978527f1db1610100ec527374896195c</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_d38527f1db1610100ec5273748961960</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-30 06:43:10</sys_updated_on>
+        <sys_user_role display_value="x_468168_sandeep.internal_change_log_user" name="x_468168_sandeep.internal_change_log_user">cf85af31db1610100ec5273748961922</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="change_notes" label="Change Notes" language="en" table="x_468168_sandeep_change">
+    <sys_documentation element="u_date_time" label="Proposed Date and Time" language="en" table="x_468168_sandeep_internal_change_log">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>change_notes</element>
+            <element>u_date_time</element>
             <help/>
             <hint/>
-            <label>Change Notes</label>
+            <label>Proposed Date and Time</label>
             <language>en</language>
-            <name>x_468168_sandeep_change</name>
-            <plural>Change Notes</plural>
+            <name>x_468168_sandeep_internal_change_log</name>
+            <plural>Proposed Date and Times</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-07-28 02:04:16</sys_created_on>
-            <sys_id>9dd598d9db1210100ec52737489619d4</sys_id>
+            <sys_created_on>2020-07-30 06:53:44</sys_created_on>
+            <sys_id>7df76375db1610100ec5273748961955</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Change Notes</sys_name>
+            <sys_name>Proposed Date and Time</sys_name>
             <sys_package display_value="Sandeep" source="x_468168_sandeep">caf15c19db1210100ec52737489619b4</sys_package>
             <sys_policy/>
             <sys_scope display_value="Sandeep">caf15c19db1210100ec52737489619b4</sys_scope>
-            <sys_update_name>sys_documentation_x_468168_sandeep_change_change_notes_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_468168_sandeep_internal_change_log_u_date_time_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-28 02:04:16</sys_updated_on>
+            <sys_updated_on>2020-07-30 06:53:44</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

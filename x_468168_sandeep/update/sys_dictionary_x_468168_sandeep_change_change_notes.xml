@@ -48,7 +48,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-07-28 02:04:16</sys_created_on>
-        <sys_id>9a821859db1210100ec5273748961981</sys_id>
+        <sys_id>95d598d9db1210100ec52737489619d4</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Change Notes</sys_name>
         <sys_package display_value="Sandeep" source="x_468168_sandeep">caf15c19db1210100ec52737489619b4</sys_package>
@@ -56,7 +56,7 @@
         <sys_scope display_value="Sandeep">caf15c19db1210100ec52737489619b4</sys_scope>
         <sys_update_name>sys_dictionary_x_468168_sandeep_change_change_notes</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-07-28 02:04:16</sys_updated_on>
+        <sys_updated_on>2020-07-28 02:18:40</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
