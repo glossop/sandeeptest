@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="change_notes" table="x_468168_sandeep_change">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="sys_class_name" table="x_468168_sandeep_internal_change_log">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>edge_encryption_enabled=true</attributes>
+        <attributes>synchronizePartitions=true</attributes>
         <audit>false</audit>
         <calculation/>
-        <choice>0</choice>
+        <choice>3</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Change Notes</column_label>
+        <column_label>Class</column_label>
         <comments/>
         <create_roles/>
-        <default_value/>
+        <default_value>javascript:current.getTableName();</default_value>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
@@ -20,17 +20,17 @@
         <display>false</display>
         <dynamic_creation>false</dynamic_creation>
         <dynamic_creation_script/>
-        <dynamic_default_value/>
+        <dynamic_default_value display_value="Get Current Table Name">b5cb83a85f220100a9ad2572f2b4773c</dynamic_default_value>
         <dynamic_ref_qual/>
-        <element>change_notes</element>
+        <element>sys_class_name</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="String">string</internal_type>
+        <internal_type display_value="">sys_class_name</internal_type>
         <mandatory>false</mandatory>
-        <max_length>60</max_length>
-        <name>x_468168_sandeep_change</name>
+        <max_length>80</max_length>
+        <name>x_468168_sandeep_internal_change_log</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
@@ -47,21 +47,21 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-07-28 02:04:16</sys_created_on>
-        <sys_id>9a821859db1210100ec5273748961981</sys_id>
+        <sys_created_on>2020-08-03 00:50:13</sys_created_on>
+        <sys_id>802b7e87db5210100ec52737489619ad</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Change Notes</sys_name>
-        <sys_package display_value="Sandeep" source="x_468168_sandeep">caf15c19db1210100ec52737489619b4</sys_package>
+        <sys_name>Class</sys_name>
+        <sys_package display_value="Configuration Management (CMDB)" source="com.snc.cmdb">46b9d049e82100107850694c2d9d2de2</sys_package>
         <sys_policy/>
         <sys_scope display_value="Sandeep">caf15c19db1210100ec52737489619b4</sys_scope>
-        <sys_update_name>sys_dictionary_x_468168_sandeep_change_change_notes</sys_update_name>
+        <sys_update_name>sys_dictionary_x_468168_sandeep_internal_change_log_sys_class_name</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-07-28 02:18:40</sys_updated_on>
+        <sys_updated_on>2020-08-03 00:50:13</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
         <use_dependent_field>false</use_dependent_field>
-        <use_dynamic_default>false</use_dynamic_default>
+        <use_dynamic_default>true</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
         <widget/>
