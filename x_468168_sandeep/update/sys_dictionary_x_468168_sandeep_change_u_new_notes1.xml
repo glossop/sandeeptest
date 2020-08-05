@@ -48,15 +48,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-08-05 23:32:26</sys_created_on>
-        <sys_id>ce160e08db2210100ec5273748961979</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_id>9007c288db2210100ec52737489619c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>New Note</sys_name>
         <sys_package display_value="Sandeep" source="x_468168_sandeep">caf15c19db1210100ec52737489619b4</sys_package>
         <sys_policy/>
         <sys_scope display_value="Sandeep">caf15c19db1210100ec52737489619b4</sys_scope>
         <sys_update_name>sys_dictionary_x_468168_sandeep_change_u_new_notes1</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-05 23:34:10</sys_updated_on>
+        <sys_updated_on>2020-08-05 23:36:28</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

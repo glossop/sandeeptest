@@ -12,13 +12,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-07-30 06:43:13</sys_created_on>
-        <sys_id>cc2b7e87db5210100ec52737489619db</sys_id>
+        <sys_id>ac070688db2210100ec5273748961967</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_468168_sandeep_internal_change_log</sys_name>
         <sys_package display_value="Sandeep" source="x_468168_sandeep">caf15c19db1210100ec52737489619b4</sys_package>
         <sys_policy/>
         <sys_scope display_value="Sandeep">caf15c19db1210100ec52737489619b4</sys_scope>
-        <sys_update_name>ua_table_licensing_config_cc2b7e87db5210100ec52737489619db</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_ac070688db2210100ec5273748961967</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-07-30 06:43:13</sys_updated_on>
     </ua_table_licensing_config>

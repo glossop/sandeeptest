@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>4834c49bdbd210100ec52737489619b8</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="x_468168_sandeep_internal_change_log">
+    <x_468168_sandeep_internal_change_log action="INSERT_OR_UPDATE">
+        <asset/>
+        <asset_tag/>
+        <assigned/>
+        <assigned_to/>
+        <assignment_group/>
+        <attestation_score/>
+        <attested>false</attested>
+        <attested_by/>
+        <attested_date/>
+        <attributes/>
+        <can_print>false</can_print>
+        <category/>
+        <change_control/>
+        <checked_in/>
+        <checked_out/>
+        <comments/>
+        <company/>
+        <correlation_id/>
+        <cost/>
+        <cost_cc>USD</cost_cc>
+        <cost_center/>
+        <default_gateway/>
+        <delivery_date/>
+        <department/>
+        <discovery_source/>
+        <dns_domain/>
+        <due/>
+        <due_in/>
+        <duplicate_of/>
+        <environment/>
+        <fault_count>0</fault_count>
+        <first_discovered/>
+        <fqdn/>
+        <gl_account/>
+        <hardware_status>installed</hardware_status>
+        <hardware_substatus/>
+        <install_date/>
+        <install_status>1</install_status>
+        <internet_facing>true</internet_facing>
+        <invoice_number/>
+        <ip_address/>
+        <justification/>
+        <last_discovered/>
+        <lease_id/>
+        <location/>
+        <mac_address/>
+        <maintenance_schedule/>
+        <managed_by/>
+        <managed_by_group/>
+        <manufacturer/>
+        <model_id/>
+        <model_number/>
+        <monitor>false</monitor>
+        <name/>
+        <number>ICL001005</number>
+        <operational_status>1</operational_status>
+        <order_date/>
+        <owned_by/>
+        <po_number/>
+        <purchase_date/>
+        <schedule/>
+        <serial_number/>
+        <short_description/>
+        <skip_sync>false</skip_sync>
+        <start_date/>
+        <subcategory/>
+        <support_group/>
+        <supported_by/>
+        <sys_class_name>x_468168_sandeep_internal_change_log</sys_class_name>
+        <sys_class_path>/!!/!2/!8</sys_class_path>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-03 06:09:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4834c49bdbd210100ec52737489619b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-03 06:09:44</sys_updated_on>
+        <u_date_time>2020-08-26 06:09:34</u_date_time>
+        <u_effected_grp display_value="CAB Approval" name="CAB Approval">b85d44954a3623120004689b2d5dd60a</u_effected_grp>
+        <u_notes/>
+        <u_reference_1 display_value="*BETH-IBM">affd3c8437201000deeabfc8bcbe5dc3</u_reference_1>
+        <u_short_descp>new test</u_short_descp>
+        <unverified>false</unverified>
+        <vendor/>
+        <warranty_expiration/>
+    </x_468168_sandeep_internal_change_log>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-03 06:10:51</sys_created_on>
+        <sys_id>b4840013db1610100ec5273748961906</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Sandeep" source="x_468168_sandeep">caf15c19db1210100ec52737489619b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sandeep">caf15c19db1210100ec52737489619b4</sys_scope>
+        <sys_update_name>sys_metadata_link_b4840013db1610100ec5273748961906</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-03 06:10:51</sys_updated_on>
+        <tablename>x_468168_sandeep_internal_change_log</tablename>
+    </sys_metadata_link>
+</record_update>
