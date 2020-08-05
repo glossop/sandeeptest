@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-07-28 02:15:31</sys_created_on>
-            <sys_id>4b1590d9db1210100ec52737489619ac</sys_id>
+            <sys_created_on>2020-08-05 23:32:27</sys_created_on>
+            <sys_id>0e160e08db2210100ec5273748961994</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_468168_sandeep_change" sys_domain="global" view="Default view">85345899db1210100ec5273748961945</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-28 02:15:31</sys_updated_on>
+            <sys_updated_on>2020-08-05 23:32:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,41 +18,55 @@
             <element>u_device</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-07-28 02:15:31</sys_created_on>
-            <sys_id>cb1590d9db1210100ec52737489619ac</sys_id>
+            <sys_created_on>2020-08-05 23:32:27</sys_created_on>
+            <sys_id>c2160e08db2210100ec5273748961995</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_468168_sandeep_change" sys_domain="global" view="Default view">85345899db1210100ec5273748961945</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-28 02:15:31</sys_updated_on>
+            <sys_updated_on>2020-08-05 23:32:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_new_notes1</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-05 23:32:27</sys_created_on>
+            <sys_id>46160e08db2210100ec5273748961995</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_468168_sandeep_change" sys_domain="global" view="Default view">85345899db1210100ec5273748961945</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-05 23:32:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>2</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-07-28 02:15:31</sys_created_on>
-            <sys_id>4f1590d9db1210100ec52737489619ac</sys_id>
+            <sys_created_on>2020-08-05 23:32:27</sys_created_on>
+            <sys_id>c6160e08db2210100ec5273748961995</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_468168_sandeep_change" sys_domain="global" view="Default view">85345899db1210100ec5273748961945</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-28 02:15:31</sys_updated_on>
+            <sys_updated_on>2020-08-05 23:32:27</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_created_on</element>
-            <position>3</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-07-28 02:15:31</sys_created_on>
-            <sys_id>cf1590d9db1210100ec52737489619ac</sys_id>
+            <sys_created_on>2020-08-05 23:32:27</sys_created_on>
+            <sys_id>4a160e08db2210100ec5273748961995</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_468168_sandeep_change" sys_domain="global" view="Default view">85345899db1210100ec5273748961945</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-28 02:15:31</sys_updated_on>
+            <sys_updated_on>2020-08-05 23:32:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

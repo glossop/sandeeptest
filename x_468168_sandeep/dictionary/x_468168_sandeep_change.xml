@@ -9,5 +9,6 @@
                 <element inactive_on_update="false" label="Acer" sequence="2" value="acer"/>
             </choice>
         </element>
+        <element attributes="edge_encryption_enabled=true" label="New Note" max_length="40" name="u_new_notes1" type="string"/>
     </element>
 </database>
