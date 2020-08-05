@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Sandeep">fbc21419db1210100ec527374896191f</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Mer Module</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_468168_sandeep_internal_change_log</name>
+        <order>100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-03 03:22:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b2bcdf4bdb9210100ec52737489619a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Mer Module</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Sandeep" source="x_468168_sandeep">caf15c19db1210100ec52737489619b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sandeep">caf15c19db1210100ec52737489619b4</sys_scope>
+        <sys_update_name>sys_app_module_b2bcdf4bdb9210100ec52737489619a1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-03 03:22:57</sys_updated_on>
+        <timeline_page/>
+        <title>Mer Module</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Sandeep">caf15c19db1210100ec52737489619b4</application>
+        <file_path/>
+        <instance_id>176713c2dbcdb38442b321c405961966</instance_id>
+        <instance_name>dev84082</instance_name>
+        <name>sys_app_module_b2bcdf4bdb9210100ec52737489619a1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Sandeep">fbc21419db1210100ec527374896191f</application><assessment/><content_page/><device_type/><filter/><hint/><homepage/><image/><link_type>NEW</link_type><map_page/><mobile_title>Mer Module</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_468168_sandeep_internal_change_log</name><order>100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles>user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-03 03:22:57</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b2bcdf4bdb9210100ec52737489619a1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Mer Module</sys_name><sys_overrides/><sys_package display_value="Sandeep" source="x_468168_sandeep">caf15c19db1210100ec52737489619b4</sys_package><sys_policy/><sys_scope display_value="Sandeep">caf15c19db1210100ec52737489619b4</sys_scope><sys_update_name>sys_app_module_b2bcdf4bdb9210100ec52737489619a1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-03 03:22:57</sys_updated_on><timeline_page/><title>Mer Module</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1067817195</payload_hash>
+        <record_name>Mer Module</record_name>
+        <reverted_from/>
+        <source>13fd3e0bdb5210100ec5273748961914</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-03 03:22:57</sys_created_on>
+        <sys_id>551e13c7db9210100ec52737489619e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173b257fad10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-03 03:22:57</sys_updated_on>
+        <type>Module</type>
+        <update_guid>9d1e13c7f692101025468753f32d95e0</update_guid>
+        <update_guid_history>9d1e13c7f692101025468753f32d95e0:-1067817195</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Mer Module">5f29ed3bdb5210100ec5273748961977</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-05 02:47:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>01cf90e5e4ca4c0a81c633b52c524bd1</sys_id>
+        <sys_metadata>b2bcdf4bdb9210100ec52737489619a1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Mer Module</sys_name>
+        <sys_package display_value="Sandeep" source="x_468168_sandeep">caf15c19db1210100ec52737489619b4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Sandeep">caf15c19db1210100ec52737489619b4</sys_scope>
+        <sys_scope_delete display_value="">51b81007c86c4f40ae037b90c52a6240</sys_scope_delete>
+        <sys_update_name>sys_app_module_b2bcdf4bdb9210100ec52737489619a1</sys_update_name>
+        <sys_update_version display_value="sys_app_module_b2bcdf4bdb9210100ec52737489619a1">551e13c7db9210100ec52737489619e1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-05 02:47:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

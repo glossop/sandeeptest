@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Change" max_length="40" name="x_468168_sandeep_change" type="collection">
+    <element label="Change" max_length="40" name="x_468168_sandeep_change" sizeclass="0" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Change Notes" max_length="60" name="change_notes" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Device" max_length="40" name="u_device" type="string">
